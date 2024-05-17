@@ -1,7 +1,7 @@
 # Data Scienist Porfolio
 
 ## Education 
-**Loyola University of Maryland**/
+<p>**Loyola University of Maryland**<p>
 Bachelor of Science in Data Science with a Minor in Economics 
 
 ## Projects
