@@ -10,7 +10,7 @@ Bachelor of Science in Data Science with a Minor in Economics
 ## Projects
 
 ### Senior Project 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+![EEG Band Discovery](new-folder/Buddy Towns.jpeg)
 
 ### NFL Big Data Bowl
 
