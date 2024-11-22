@@ -10,7 +10,7 @@ Bachelor of Science in Data Science with a Minor in Economics
 ## Projects
 
 ### Senior Project 
-<img src="/new-folder/Buddy_Towns.jpeg" alt="Buddy Towns" width="500">
+<img src="/new-folder/Buddy_Towns.jpeg" alt="Buddy Towns" width=600">
 
 ### NFL Big Data Bowl
 
