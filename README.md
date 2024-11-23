@@ -5,7 +5,7 @@
 Masters of Science in Data Science Technical Specialzation programe
 
 **Loyola University of Maryland**
-Bachelor of Science in Data Science with a Minor in Economics 
+Bachelor of Science in Data Science with a Minor in Economics
 
 ## Projects
 
